@@ -1,24 +1,5 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body {
     background-color: black;
-}
-a {
-    color: blue;
-}
-h1 {
-    color: white;
-    font-size: 3rem;
-}
-h2 {
-    color: red;
-    font-size: 2rem;
-}
-h3 {
-    font-size: 1rem;
 }
 .box {
     background-color: transparent;
@@ -26,26 +7,4 @@ h3 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-}
-@media screen and (max-width: 1200px) {
-    h1 {
-        font-size: 2.25rem;
-    }
-    h2 {
-        font-size: 1.5rem;
-    }
-    h3 {
-        font-size: 0.75rem;
-    }
-}
-@media screen and (max-width: 750px) {
-    h1 {
-        font-size: 1.5rem;
-    }
-    h2 {
-        font-size: 1rem;
-    }
-    h3 {
-        font-size: 0.5rem;
-    }
 }
