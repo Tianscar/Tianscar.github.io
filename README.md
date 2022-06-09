@@ -2,4 +2,4 @@
 Personal website's main site.
 
 ## License
-[CC-BY](https://github.com/Tianscar/mainsite/blob/main/LICENSE) © Tianscar
+[CC-BY-4.0](https://github.com/Tianscar/mainsite/blob/gh-pages/LICENSE) © Tianscar
