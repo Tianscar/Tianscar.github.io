@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/env sh
 
 git add .
 git commit -m "Site updated: $(date "+%Y-%m-%d %H:%M:%S")"
